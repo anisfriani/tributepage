@@ -1,18 +1,18 @@
 body {
-  background-color: rgb(234,234,234);
+  background-color: #eaeaea;
   font-family: sans-serif;
   font-size: 12px
+  text-align: justify;
+  border: 3px double black;
     }
     
 h1 {
   font-family: fantasy;
   font-size: 24px;
-  align: center;
   }
   
 h2 {
   font-size: 14px;
-  font-decoration: underline;
   }
 
 h6 {
@@ -21,10 +21,6 @@ h6 {
   font-size: 12px;
   color: grey;
   }
-
-p {
-  align: justify;
-}
 
 .image {
   width: 300px;
