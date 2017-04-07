@@ -1,0 +1,31 @@
+body {
+  background-color: light-grey;
+  font-family: sans-serif;
+  font-size: 12px
+    }
+    
+h1 {
+  font-family: fantasy;
+  font-size: 18px;
+  }
+  
+h2 {
+  font-size: 14px;
+  font-decoration: underline;
+  }
+
+h6 {
+  font-size: cursive;
+  font-style: italic;
+  font-size: 12px;
+  color: grey;
+  }
+
+.image {
+  width: 300px;
+  border: 6px groove black;
+  }
+  
+ a:visited {
+    color: orange;
+    }
