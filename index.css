@@ -5,7 +5,7 @@ body {
     }
     
 h1 {
-  font-family: monospace;
+  font-family: fantasy;
   font-size: 20px;
   text-align: center;
   }
@@ -27,9 +27,15 @@ h6 {
   color: grey;
   }
 
+.list {
+  font-size: 12px;
+  font-family: sans-serif;
+  }
+
 .image {
   width: 300px;
   border: 6px groove black;
+  position: center;
   }
   
  a:visited {
