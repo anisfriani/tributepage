@@ -1,19 +1,23 @@
 body {
   background-color: #eaeaea;
-  font-family: sans-serif;
-  font-size: 12px
-  text-align: justify;
   border: 3px double black;
+  margin: 6px 6px 6px 6px;
     }
     
 h1 {
-  font-family: fantasy;
-  font-size: 24px;
+  font-family: monospace;
+  font-size: 20px;
   }
   
 h2 {
   font-size: 14px;
   }
+
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+  text-align: justify;
+}
 
 h6 {
   font-size: cursive;
