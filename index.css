@@ -6,7 +6,7 @@ body {
     
 h1 {
   font-family: 'Tangerine', fantasy;
-  font-size: 32px;
+  font-size: 48px;
   text-align: center;
   text-shadow: 4px 4px 4px #aaa;
   }
@@ -24,7 +24,8 @@ p {
 h6 {
   font-size: cursive;
   font-style: italic;
-  font-size: 12px;
+  font-size: 14px;
+  text-align: center;
   color: grey;
   }
 
@@ -35,8 +36,9 @@ h6 {
 
 .image {
   width: 300px;
-  border: 6px groove black;
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   }
   
  a:visited {
