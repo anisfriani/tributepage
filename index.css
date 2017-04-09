@@ -1,13 +1,14 @@
 body {
   background-color: #eaeaea;
-  border: 3px double black;
+  margin: 10px 10px 10px 10px;
   padding: 6px 6px 6px 6px;
     }
     
 h1 {
-  font-family: fantasy;
-  font-size: 20px;
+  font-family: 'Tangerine', fantasy;
+  font-size: 32px;
   text-align: center;
+  text-shadow: 4px 4px 4px #aaa;
   }
   
 h2 {
@@ -35,7 +36,7 @@ h6 {
 .image {
   width: 300px;
   border: 6px groove black;
-  position: center;
+  text-align: center;
   }
   
  a:visited {
