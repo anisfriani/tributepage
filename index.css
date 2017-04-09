@@ -1,5 +1,5 @@
 body {
-  background-color: #eaeaea;
+  background-color: #fff;
   margin: 10px 10px 10px 10px;
   padding: 6px 6px 6px 6px;
     }
@@ -22,6 +22,7 @@ p {
 }
 
 h6 {
+  background-color: #eaeaea;
   font-size: cursive;
   font-style: italic;
   font-size: 14px;
